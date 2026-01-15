@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi code vừa sửa làm app hỏng nặng hơn và muốn "Quay xe" về trạng thái ổn định trước đó.
+description: ⏪ Quay lại phiên bản cũ
 ---
 
 # WORKFLOW: /rollback - The Time Machine (Emergency Recovery)

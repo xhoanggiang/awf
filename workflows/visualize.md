@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi bạn muốn thiết kế UI/UX mới. AI sẽ vẽ (generate image) mockup trước để bạn duyệt, sau đó mới code HTML/CSS/React để giống hệt ảnh.
+description: 🎨 Thiết kế giao diện
 ---
 
 # WORKFLOW: /visualize - The Creative Partner (Comprehensive UI/UX)

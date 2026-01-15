@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này để kiểm tra sức khỏe tổng thể của codebase. Phát hiện code chết, lỗ hổng bảo mật, và tech debt trước khi quá muộn.
+description: 🏥 Kiểm tra code & bảo mật
 ---
 
 # WORKFLOW: /audit - The Code Doctor (Comprehensive Health Check)

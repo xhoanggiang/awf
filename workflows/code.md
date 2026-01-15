@@ -1,5 +1,5 @@
 ---
-description: Lệnh chính để viết code. AI sẽ tự động code dựa trên Spec (nếu có) hoặc tự phân tích yêu cầu nhỏ để code ngay. Thay thế cho /build.
+description: 💻 Viết code theo Spec
 ---
 
 # WORKFLOW: /code - The Universal Coder (Security & Quality Aware)

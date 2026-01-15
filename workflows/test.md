@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này để kiểm thử chất lượng code. Chạy Unit Test, Integration Test hoặc Quick Verification Script.
+description: ✅ Chạy kiểm thử
 ---
 
 # WORKFLOW: /test - The Quality Guardian (Smart Testing)

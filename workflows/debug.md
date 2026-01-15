@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi gặp lỗi (Bug), App chết, hoặc Logic chạy sai. Workflow này ép AI phải điều tra kỹ (Root Cause Analysis) trước khi sửa, tránh sửa mò làm lỗi nặng thêm.
+description: 🐞 Sửa lỗi & Debug
 ---
 
 # WORKFLOW: /debug - The Sherlock Holmes (User-Friendly Debugging)

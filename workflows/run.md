@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này để khởi động dự án. AI tự động chọn lệnh run phù hợp (npm, docker,...) và giám sát quá trình khởi động.
+description: ▶️ Chạy ứng dụng
 ---
 
 # WORKFLOW: /run - The Application Launcher (Smart Start)

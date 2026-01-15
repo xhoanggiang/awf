@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này CUỐI phiên làm việc. AI sẽ tự động cập nhật các file tài liệu tổng quan (Architecture, Schema, API Doc) để không bị "quên" kiến thức (Context Drift).
+description: 💾 Lưu kiến thức dự án
 ---
 
 # WORKFLOW: /save-brain - The Infinite Memory Keeper (Complete Documentation)

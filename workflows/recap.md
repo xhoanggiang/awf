@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi bắt đầu phiên làm việc mới (sáng hôm sau, sau khi nghỉ vài ngày). AI sẽ tự đọc lại toàn bộ context và tóm tắt cho bạn.
+description: 🧠 Tóm tắt dự án
 ---
 
 # WORKFLOW: /recap - The Memory Retriever (Context Recovery)

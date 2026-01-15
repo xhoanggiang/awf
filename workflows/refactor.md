@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi code đã chạy ổn nhưng nhìn lộn xộn, khó đọc. AI sẽ dọn dẹp (Clean Code), tối ưu, và sắp xếp lại code chuẩn Enterprise mà không làm hỏng tính năng.
+description: 🧹 Dọn dẹp & tối ưu code
 ---
 
 # WORKFLOW: /refactor - The Code Gardener (Safe Cleanup)

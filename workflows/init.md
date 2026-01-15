@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này khi bắt đầu một DỰ ÁN MỚI HOÀN TOÀN (chưa có code gì). AI sẽ tự động tạo cấu trúc thư mục, cài đặt dependencies, và thiết lập nền tảng.
+description: ✨ Tạo dự án mới
 ---
 
 # WORKFLOW: /init - The Project Bootstrapper (Complete Setup)

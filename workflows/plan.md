@@ -1,5 +1,5 @@
 ---
-description: PHẢI DÙNG LỆNH NÀY ĐẦU TIÊN KHI BẮT ĐẦU TÍNH NĂNG MỚI. Workflow này giúp AI (Antigravity) hiểu rõ yêu cầu, tự động research, và viết ra file Technical Spec chi tiết TRƯỚC khi code.
+description: 📝 Thiết kế tính năng
 ---
 
 # WORKFLOW: /plan - The Logic Architect (Ultimate Edition)

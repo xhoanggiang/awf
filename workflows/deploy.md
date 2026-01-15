@@ -1,5 +1,5 @@
 ---
-description: Dùng lệnh này để đóng gói và chuẩn bị deploy dự án (Docker Build, Production Build, Cloudflare Tunnel check).
+description: 🚀 Deploy lên Production
 ---
 
 # WORKFLOW: /deploy - The Release Manager (Complete Production Guide)
