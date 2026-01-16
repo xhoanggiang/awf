@@ -2,6 +2,29 @@
 
 All notable changes to AWF will be documented in this file.
 
+## [3.2.0] - 2026-01-16
+
+### Added
+- `/brainstorm` workflow - Discovery phase for idea exploration & market research
+- `/next` workflow - Anti-stuck guide, suggests next steps
+- `docs/USER_GUIDE.md` - Comprehensive guide for 3 usage scenarios
+- `docs/visualization/index.html` - Interactive web page for non-tech users
+- Golden Rules in `/code` to prevent agent from doing unauthorized actions
+- Detailed info gathering phase in `/visualize`
+
+### Improved
+- `/plan` workflow - Simplified for non-tech users, uses everyday language
+- README.md - Now includes beginner-friendly documentation
+- Command list organized by category
+
+### New Features for Beginners
+- Market research capability in /brainstorm
+- MVP prioritization guidance
+- Step-by-step workflow visualization
+- "When stuck" help section
+
+---
+
 ## [3.1.0] - 2026-01-16
 
 ### Added
